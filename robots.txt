@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://octoosmo.github.io/presence-pages/sitemap.xml
